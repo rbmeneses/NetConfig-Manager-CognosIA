@@ -2,7 +2,7 @@
 
 Uma suíte de automação de rede completa, construída com Streamlit e IA, para gerenciar, auditar e configurar sua infraestrutura de rede de forma visual e inteligente.
 
-`[ADICIONAR IMAGEM: Banner ou GIF principal do App em Ação]`
+![Screenshot da Aplicação](https://github.com/rbmeneses/NetConfig-Manager-CognosIA/blob/main/Screenshot_1.png)
 
 ## 📖 Sobre o Projeto
 
