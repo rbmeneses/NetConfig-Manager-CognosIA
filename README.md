@@ -53,27 +53,33 @@ O arsenal de ferramentas do NetConfig Manager inclui:
 
 ## 📸 Screenshots
 
-`[ADICIONAR IMAGEM: GIF mostrando o fluxo do app, talvez a página de Backup rodando]`
+![Screenshot da Aplicação](https://github.com/rbmeneses/NetConfig-Manager-CognosIA/blob/main/Screenshot_2.png)
 
 ### Topologia de Rede Interativa
 
-`[ADICIONAR IMAGEM: Screenshot da página de Topologia com os nós e ícones personalizados.]`
+![Screenshot da Aplicação](https://github.com/rbmeneses/NetConfig-Manager-CognosIA/blob/main/Screenshot_6.png)
 
 ### Assistente de Geração de Configuração (ConfigGenius v2)
 
-`[ADICIONAR IMAGEM: GIF ou screenshot mostrando o assistente passo-a-passo.]`
+![Screenshot da Aplicação](https://github.com/rbmeneses/NetConfig-Manager-CognosIA/blob/main/Screenshot_7.png)
+![Screenshot da Aplicação](https://github.com/rbmeneses/NetConfig-Manager-CognosIA/blob/main/Screenshot_8.png)
+![Screenshot da Aplicação](https://github.com/rbmeneses/NetConfig-Manager-CognosIA/blob/main/Screenshot_9.png)
+![Screenshot da Aplicação](https://github.com/rbmeneses/NetConfig-Manager-CognosIA/blob/main/Screenshot_10.png)
+![Screenshot da Aplicação](https://github.com/rbmeneses/NetConfig-Manager-CognosIA/blob/main/Screenshot_11.png)
+![Screenshot da Aplicação](https://github.com/rbmeneses/NetConfig-Manager-CognosIA/blob/main/Screenshot_12.png)
+![Screenshot da Aplicação](https://github.com/rbmeneses/NetConfig-Manager-CognosIA/blob/main/Screenshot_13.png)
 
 ### Auditor de Segurança com IA Gemini
 
-`[ADICIONAR IMAGEM: Screenshot do relatório de auditoria gerado pela IA, mostrando as falhas e a nota.]`
+![Screenshot da Aplicação](https://github.com/rbmeneses/NetConfig-Manager-CognosIA/blob/main/Screenshot_15.png)
 
 ### Painel de Backup e Análise de Diff
 
-`[ADICIONAR IMAGEM: Screenshot da página de Backup mostrando o log e um relatório de 'diff' expandido.]`
+![Screenshot da Aplicação](https://github.com/rbmeneses/NetConfig-Manager-CognosIA/blob/main/Screenshot_18.png)
 
 ### Gerenciador de Inventário
 
-`[ADICIONAR IMAGEM: Screenshot da tabela de inventário com o data_editor, mostrando as colunas de topologia.]`
+![Screenshot da Aplicação](https://github.com/rbmeneses/NetConfig-Manager-CognosIA/blob/main/Screenshot_3.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
