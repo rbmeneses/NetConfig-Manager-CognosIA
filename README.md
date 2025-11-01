@@ -58,6 +58,7 @@ O arsenal de ferramentas do NetConfig Manager inclui:
 ### Topologia de Rede Interativa
 
 ![Screenshot da Aplicação](https://github.com/rbmeneses/NetConfig-Manager-CognosIA/blob/main/Screenshot_6.png)
+![Screenshot da Aplicação](https://github.com/rbmeneses/NetConfig-Manager-CognosIA/blob/main/Screenshot_5.png)
 
 ### Assistente de Geração de Configuração (ConfigGenius v2)
 
